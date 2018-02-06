@@ -1,0 +1,12 @@
+
+<h3>Trending</h3>
+<div class="box">
+<ul>
+  <li *ngFor = 'let trend of trends' style="list-style: none">
+    <div class ="sep">
+    <span class="badge">{{trend.title}}</span>:&nbsp;&nbsp; 
+    <span class="dis"><p allign="right" >{{trend.discription}}</p></span>
+    </div>
+  </li>
+</ul>
+</div>

@@ -1,0 +1,54 @@
+/* This css is for trending component*/
+
+h3{
+    width: 239px;
+    padding-left: 25px;
+    padding-right: 5px;
+    position: relative;
+    left:-5px;
+    top:-7px;
+    border-radius: 0px 2px 26px 0px;
+    background-color: rgb(40,123,231);
+    border-collapse: collapse;
+    color: white;
+    size: 12px;
+    font-weight: bold;
+}
+.box{
+    width: 240px;
+    height: 250px;
+    padding: 2px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    overflow-wrap: break-word;
+    -ms-overflow-style: none;
+}
+.badge{
+    position: relative;
+    color: rgb(13, 13, 107);
+}
+
+.dis p{
+    position: relative;
+    left: 100px;
+    top: -20px;
+    width:139px;
+    height: 35px;
+    word-break:break-all;
+}
+
+.sep {
+    display: inline-block;
+    width: 239px;
+    margin-bottom: -25px;
+    margin-top:-5px;
+    line-height: 115%;
+    position: relative;
+    right: 45px;
+    font-size: 100%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+
