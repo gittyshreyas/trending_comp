@@ -18,5 +18,5 @@ export class TrendingComponent implements OnInit {
     this.trendsdata.getTrends()
     .subscribe(trends => this.trends = trends);
   }
-
 }
+

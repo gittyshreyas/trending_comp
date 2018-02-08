@@ -8,5 +8,6 @@ import { NgDragDropModule} from 'ng-drag-drop';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'app';
+  title = 'app';    
 }
+
